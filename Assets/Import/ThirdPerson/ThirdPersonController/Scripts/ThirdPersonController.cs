@@ -159,6 +159,28 @@ namespace StarterAssets
             JumpAndGravity();
             GroundedCheck();
             Move();
+            AimShoot();
+        }
+
+        private void AimShoot() 
+        {
+            if (_input.isAiming && Grounded && !_input.sprint)
+            {
+                //Play Aim Animation
+                _animator.SetBool("Aiming", _input.isAiming);
+                _animator.SetBool("Shooting", _input.isShooting);
+            }
+            else 
+            {
+                //Stop Aim Animation
+                _animator.SetBool("Aiming", false);
+                _animator.SetBool("Shooting", false);
+            }
+        }
+
+        public void Shoot()
+        {
+            Debug.Log("Throw Arrow");
         }
 
         private void LateUpdate()
