@@ -5,3 +5,13 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< HEAD
+=======
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176350
+  packageName: Low Poly Dungeons
+  packageVersion: 1.24
+  assetPath: Assets/LowPolyDungeons/LowPolyDungeons_2020.3.0_HDRP_v1.24.unitypackage
+  uploadId: 554811
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
