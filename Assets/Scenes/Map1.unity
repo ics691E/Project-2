@@ -215,6 +215,7 @@ MonoBehaviour:
   m_BuildHeightMesh: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &42172631
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -322,6 +323,8 @@ Transform:
   - {fileID: 8196922}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -576,6 +579,7 @@ MeshFilter:
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &117917328
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -644,6 +648,8 @@ PrefabInstance:
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 --- !u!1 &125014414
 GameObject:
   m_ObjectHideFlags: 0
@@ -677,6 +683,7 @@ Transform:
   - {fileID: 89401642}
   - {fileID: 481568721}
   - {fileID: 846704034}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 65484138}
@@ -734,6 +741,10 @@ Transform:
   - {fileID: 460949157}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_Father: {fileID: 1051342655}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
   m_Father: {fileID: 1051342655}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -990,6 +1001,7 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &207949385
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1086,6 +1098,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: ae3a86d5040013c4ebab61933d9cabdf, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -1215,6 +1229,7 @@ MonoBehaviour:
   playerg: {fileID: 4416926081528887838}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &224143189
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1283,6 +1298,8 @@ PrefabInstance:
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 --- !u!1 &240117934
 GameObject:
   m_ObjectHideFlags: 0
@@ -1314,6 +1331,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 844041721}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &247753428
@@ -1456,6 +1474,8 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 2021330417}
   m_SourcePrefab: {fileID: 100100000, guid: e613f3b2edff7134cb1873b5a44d5f38, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -1668,6 +1688,7 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &317951272
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1800,6 +1821,8 @@ PrefabInstance:
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 --- !u!1 &362331957
 GameObject:
   m_ObjectHideFlags: 0
@@ -1925,6 +1948,7 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &367907836
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2021,6 +2045,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 5bfb195eb927f8442aafcb55af9e12ee, type: 3}
   m_PrefabInstance: {fileID: 367907836}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -2940,6 +2966,7 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &500143388
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3005,6 +3032,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e976862a86c3b147b0a45db14a90b11, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -3176,6 +3205,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &553102053
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3272,6 +3302,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: da226038cda8d5147b36f4e7940ea8f0, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -3511,6 +3543,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 50.38, y: 4.6, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &709416322 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: f43aca3d2d82029478384de45896b97e, type: 3}
@@ -3543,6 +3576,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: f43aca3d2d82029478384de45896b97e, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -3655,6 +3690,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 734675859}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &740234838
@@ -3857,6 +3893,8 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1173222808}
   m_SourcePrefab: {fileID: 100100000, guid: 10f6757e81247304e9c242c5577957fc, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -4631,6 +4669,7 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &849620282 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: e613f3b2edff7134cb1873b5a44d5f38, type: 3}
@@ -4658,6 +4697,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: e613f3b2edff7134cb1873b5a44d5f38, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -5928,6 +5969,9 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
+=======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
@@ -6087,6 +6131,7 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1168194897
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6215,6 +6260,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 10f6757e81247304e9c242c5577957fc, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -6743,6 +6790,7 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1303982512
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6839,6 +6887,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 11b5bac4d99791047912e9b0b5de1114, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -7654,6 +7704,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1438096518 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: e613f3b2edff7134cb1873b5a44d5f38, type: 3}
@@ -7717,6 +7768,8 @@ MeshCollider:
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 --- !u!1001 &1461446433
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7774,6 +7827,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe8f4c75de313404c93b947e8fc64fd0, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &1478231093
@@ -8095,6 +8149,8 @@ MeshCollider:
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 --- !u!1 &1556307388
 GameObject:
   m_ObjectHideFlags: 0
@@ -8291,6 +8347,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1570128706
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8355,6 +8412,8 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 812174518}
   m_SourcePrefab: {fileID: 100100000, guid: ae3a86d5040013c4ebab61933d9cabdf, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -8451,7 +8510,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 --- !u!1 &1622361419
@@ -8849,6 +8911,7 @@ MonoBehaviour:
       m_Calls: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1669012507 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 5bfb195eb927f8442aafcb55af9e12ee, type: 3}
@@ -9136,6 +9199,8 @@ MeshCollider:
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 --- !u!1 &1781851797
 GameObject:
   m_ObjectHideFlags: 0
@@ -9205,6 +9270,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1824051851 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 5bfb195eb927f8442aafcb55af9e12ee, type: 3}
@@ -9237,6 +9303,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 5bfb195eb927f8442aafcb55af9e12ee, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -9351,6 +9419,7 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1858638462
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9415,6 +9484,8 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1322781020}
   m_SourcePrefab: {fileID: 100100000, guid: 11b5bac4d99791047912e9b0b5de1114, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -9767,6 +9838,7 @@ MonoBehaviour:
   playerg: {fileID: 4416926081528887838}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1953726219
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9831,6 +9903,8 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 2022231602}
   m_SourcePrefab: {fileID: 100100000, guid: e613f3b2edff7134cb1873b5a44d5f38, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
@@ -10484,6 +10558,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &2127140612
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10575,6 +10650,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: e613f3b2edff7134cb1873b5a44d5f38, type: 3}
+=======
+>>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
 >>>>>>> parent of 527bf92 (Add Maze in Field 2)
 =======
