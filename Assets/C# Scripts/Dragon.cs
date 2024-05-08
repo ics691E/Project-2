@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -22,6 +23,7 @@ public class Dragon : MonoBehaviour
             AudioManager.instance.Play("DragonDeath");
             animator.SetTrigger("die");
             GetComponent<Collider>().enabled = false;
+            Destroy(gameObject, 1.0f);
         }
         else
         {
