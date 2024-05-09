@@ -6,7 +6,7 @@ public class DamageToPlayer : MonoBehaviour
 {
     public PlayerHealth playerHP;
     private float i = 0f;
-    private float resetTime = 2f;
+    private float resetTime = 4f;
 
     private void Update()
     {
@@ -14,7 +14,7 @@ public class DamageToPlayer : MonoBehaviour
     }
     private void OnTriggerStay(Collider other)
     {
-        if(i > resetTime)
+        if(i > resetTime && other.CompareTag("Player"))
         {
             playerHP.health -= 1;
             i = 0f;
